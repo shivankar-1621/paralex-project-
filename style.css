@@ -121,8 +121,8 @@
                     background-size: cover;
                      background-attachment: fixed;   
             }
-        .div{
-            h1{
+
+           .section5 h1{
                  font-size: 4.4rem;
                  font-weight: 900;
                  font-variant: small-caps; 
@@ -130,9 +130,10 @@
                  margin-bottom: 1rem;
                  text-shadow: 2px 2px 4px #000000;
             }
-            p{
+
+           .section5 p{
                 font-size: 2.2rem;
                 font-family: "comic sans ms";
                 font-weight: 600;
             }  
-        }
+        
