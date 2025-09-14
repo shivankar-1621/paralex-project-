@@ -2,7 +2,7 @@
         html{
             font-size: 62.5%;
         }
-        * {
+        .boby {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
@@ -73,7 +73,7 @@
                   rgba(0,0,0,0.3),
                   rgba(0,0,0,0.3)
                 ),
-                url("demonslayer.jpg");
+                url("demonslayer2.jpg");
                 background-repeat: no-repeat;
                 background-size: cover;
                 background-attachment: fixed;
@@ -111,4 +111,28 @@
                     background-size: cover;
             }      
 
-   
+            .section5{
+                background-image:linear-gradient(
+                    rgba(0,0,0,0.3),
+                    rgba(0,0,0,0.3)
+                    ),
+                    url("demonslayer.jpg");
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                     background-attachment: fixed;   
+            }
+        .div{
+            h1{
+                 font-size: 4.4rem;
+                 font-weight: 900;
+                 font-variant: small-caps; 
+                 color: #ffffff;
+                 margin-bottom: 1rem;
+                 text-shadow: 2px 2px 4px #000000;
+            }
+            p{
+                font-size: 2.2rem;
+                font-family: "comic sans ms";
+                font-weight: 600;
+            }  
+        }
